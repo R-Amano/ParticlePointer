@@ -1,0 +1,16 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.navigation_ring":{
+			"loop":true,
+			"animation_length":1,
+      "particle_effects":{
+        "0.0":{
+          "effect":"ra_navigation_ring_particle",
+          "pre_effect_script":"v.ra_navigation_ring_x=q.property('ra:pos_x'); v.ra_navigation_ring_z=q.property('ra:pos_z');"
+          //2.To pass player data to an effect, you bridge it to the effect's variables within this "pre_effect_script".
+        }
+      }
+		}
+	}
+}

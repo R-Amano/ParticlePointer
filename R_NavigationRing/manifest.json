@@ -1,0 +1,17 @@
+{
+	"format_version":2,
+	"header":{
+		"name":"Navigation Ring - R",
+		"description":"Navigation Ring - R",
+		"uuid":"aa495ac6-bf57-42f3-99bf-fbea467b6d87",
+		"version":[1,0,0],
+		"min_engine_version":[1,26,0]
+	},
+	"modules":[
+		{
+			"type":"resources",
+			"uuid":"ba5e3b8b-def4-42ab-beeb-691c1fa78a3d",
+			"version":[1,0,0]
+		}
+	]
+}

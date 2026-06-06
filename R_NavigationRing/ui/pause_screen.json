@@ -1,0 +1,7 @@
+{
+  "namespace": "pause",
+  //This implementation causes a crash when opening settings. While hiding the skin can work around this, we're looking for a more elegant solution.
+  "pause_screen_content/skin_panel": {
+    "ignored": true
+  }
+}
